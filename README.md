@@ -38,6 +38,8 @@ Enviado por professor Paulo Henrique.
 >
 > - [x] **Item 4.** Para todos os itens anteriores, mostre os robôs se movendo na em uma matriz que representa a área de locomoção. Mostre também o alimento na posição indicada pelo usuário. Considere a área fixa de um quadrado com 5 unidades de lado.
 
-### Informações sobre os arquivos:
-- Main.java: utilizado para rodar as três classes principais exigidas.
-- Pasta "exemplos": inclui os arquivos Exemplo1.java, Exemplo2.java e Exemplo3.java: Main com um robô e tratamento de exceção (item 1), Main com dois roôs se movendo randomicamente (item 2) e Main com um robô e um robô inteligente se movendo randomicamente (item 3).
+### Informações sobre a pasta "código":
+- *Main.java*: utilizado para rodar as três classes principais exigidas.
+- Pasta "*robôs*" com os arquivos Robo.java e RoboInteligente.java: códigos-fonte da classe Robo e da classe RoboInteligente, respetivamente. 
+- Pasta "*exemplos*" com os arquivos Exemplo1.java, Exemplo2.java e Exemplo3.java: códigosa-fonte da Main com um robô e tratamento de exceção (item 1), da Main com dois roôs se movendo randomicamente (item 2) e da Main com um robô e um robô inteligente se movendo randomicamente (item 3), respectivamente.
+- Pasta "*exceptions*" com o arquivo MovimentoInvalidoException.java: guarda a exception personalizada que tratará os movimentos inválidos nas classes principais.
