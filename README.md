@@ -6,7 +6,7 @@
 
 |   Alunas             | Matrícula |   E-mail UECE                 |
 |----------------------|-----------|-------------------------------|
-| Maria CLara Mesquita |  1514909  |  clara.mesquita@aluno.uece.br |
+| Maria Clara Mesquita |  1514909  |  clara.mesquita@aluno.uece.br |
 | Danielle Santos      |  1514780  | danielle.santos@aluno.uece.br |
 
 ### Trabalho de Tratamento de Exceção 
@@ -41,5 +41,5 @@ Enviado por professor Paulo Henrique.
 ### Informações sobre a pasta "código":
 - *Main.java*: utilizado para rodar as três classes principais exigidas.
 - Pasta "*robôs*" com os arquivos Robo.java e RoboInteligente.java: códigos-fonte da classe Robo e da classe RoboInteligente, respetivamente. 
-- Pasta "*exemplos*" com os arquivos Exemplo1.java, Exemplo2.java e Exemplo3.java: códigosa-fonte da Main com um robô e tratamento de exceção (item 1), da Main com dois roôs se movendo randomicamente (item 2) e da Main com um robô e um robô inteligente se movendo randomicamente (item 3), respectivamente.
+- Pasta "*exemplos*" com os arquivos Exemplo1.java, Exemplo2.java e Exemplo3.java: códigos-fonte da Main com um robô e tratamento de exceção (item 1), da Main com dois roôs se movendo randomicamente (item 2) e da Main com um robô e um robô inteligente se movendo randomicamente (item 3), respectivamente.
 - Pasta "*exceptions*" com o arquivo MovimentoInvalidoException.java: guarda a exception personalizada que tratará os movimentos inválidos nas classes principais.
