@@ -40,4 +40,4 @@ Enviado por professor Paulo Henrique.
 
 ### Informações sobre os arquivos:
 - Main.java: utilizado para rodar as três classes principais exigidas.
-- Exemplo1.java, Exemplo2.java e Exemplo3.java: Main com um robô e tratamento de exceção (item 1), Main com dois roôs se movendo randomicamente (item 2) e Main com um robô e um robô inteligente se movendo randomicamente (item 3).
+- Pasta "exemplos": inclui os arquivos Exemplo1.java, Exemplo2.java e Exemplo3.java: Main com um robô e tratamento de exceção (item 1), Main com dois roôs se movendo randomicamente (item 2) e Main com um robô e um robô inteligente se movendo randomicamente (item 3).
